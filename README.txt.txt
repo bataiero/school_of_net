@@ -1,3 +1,3 @@
 README AQUI !!!!
 
-0.1.0
+versão 0.1.1.
